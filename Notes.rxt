@@ -1,0 +1,7 @@
+Why do we need headers any idea?
+    Ans:-If we want to send somethng over network from Front end to Backend repeatedly then we need headers.
+    We can pt that information in header.
+What is axios?
+    Ans:- It is a tool to communicate between backend & frontend. 
+What are the common problems faced when you make network calls and what should you do to solve it.
+    Ans:-Incorrect url, payload,unncessariry using JSON.stringify() etc.
